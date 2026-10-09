@@ -1,5 +1,10 @@
 # TuneGuessr
 
+[Download the complete source archive](tuneguessr-source.zip)
+
+The project is provided as a ZIP snapshot. Extract it into a working directory before running the development commands below; all source paths listed here are inside the archive.
+
+
 A free, ad-free browser music-guessing party game by **Mike Wong**. Built with React, TypeScript, Vinext, and Cloudflare D1.
 
 ## Important: placeholder audio
